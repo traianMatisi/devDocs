@@ -1,0 +1,284 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Why Self-Taught Developers SHOULD Get Certified https://www.youtube.com/watch?v=H1-s1yF9TUA
+
+1 - For credibility
+2 - Fill gaps and accelerate other learning
+3 - Personal drive
+
+So, what certifications should I get?
+
+1 - Any major cloud (Amazon, azure, google)
+    a - AWS certified cloud practioner CLF-C01 is good (Stephane Maarek) [trrntng now]
+    b - AWS certified solutions architect - associate (SAA-C03) is better (Stephane Maarek) [DWLD=TRUE]
+    c - AZ-900 Microsoft Azure Fundamentals Exam Prep is good (Scott Duffy) [DWLD=TRUE]
+    d - AZ-104 Microsoft Azure Administrator Exam Prep is better (Scott Duffy) [DWLD=TRUE]
+    e - GCP Associate Cloud Engineer - Google Cloud Certification [DWLD=TRUE]
+    f - CompTIA Security+ (SYO-601) Complete Course and Exam (see others by compTIA) [DWLD=TRUE]
+    g - Other keywords: CCNA, CompTIA Pentest+, Kubernetes administrator, hashcore associate, terraform experience/associate,
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+10 top type of courses every developer should own https://www.youtube.com/watch?v=hexfXc7-SsU
+
+1 - Javascript course
+    a - The complete Javascript course - from zero to expert (Jonas Schmedtmann) [DWLD=TRUE]
+
+2 - Cloud certifications courses - Read certifications above (begin of this document)
+    a - AWS certified cloud practioner CLF-C01 is good (Stephane Maarek)
+    b - AWS certified solutions architect - associate (SAA-C03) is better (Stephane Maarek) [DWLD=TRUE]
+    c - AZ-900 Microsoft Azure Fundamentals Exam Prep is good (Scott Duffy) [DWLD=TRUE]
+    d - AZ-104 Microsoft Azure Administrator Exam Prep is better (Scott Duffy) [DWLD=TRUE]
+    e - GCP Associate Cloud Engineer - Google Cloud Certification (in28minutes Official and Ranga Karanam) [DWLD=TRUE]
+
+3 - 100 days of code (Any code) courses
+    a - 100 days of code: The complete Python Pro Bootcamp (Angela Yu) [DWLD=TRUE]
+    b - 100 days of JavaScript (Ewomazino Akpareva)
+    c - 100 days of code: Real world data science projects bootcamp (Pianalityx)
+
+4 - Linux course
+    a - Linux Administration: The complete Linux bootcamp [DWLD=TRUE]
+
+5 - Algorithm/Coding interview courses
+    a - Master the coding interview: Data structures + algorithms [JavaScript] (Andrei Neagoie) [DWLD=TRUE]
+    b - Data structures & algorithms - Python [Python] (Scott Barrett) [DWLD=TRUE]
+
+6 - API design courses
+    a - Node.js - The complete RESTful API masterclass (Ghulam Abbas)
+    b - RESTful Web API - The complete guide (.NET7 API) [Bhrugen Patel] [DWLD=TRUE]
+
+7 - SQL course
+    a - The complete SQL bootcamp: Go from zero to hero (Jose Portilla) [DWLD=TRUE]
+
+8 - Clean Code courses
+    a - Clean Code (Academind) [DWLD=TRUE]
+    b - SOLID Principles: Introducing software architecture & design (Sujith George) [DWLD=TRUE]
+
+9 - Become Senior developer courses
+    a - Software developer mindsets for successful career (Avetis Ghukasyan) [DWLD=TRUE]
+    b - How to become a senior developer - Beyond coding skills (Oren Abbou)
+
+10 - Computer science course - Anything by CompTIA
+    a - CompTIA A+ Core 1 (220-1101) Complete course & Practice exam (Jason Dion) [DWLD=TRUE]
+    b - CompTIA A+ Core 2 (220-1102) Complete course & Practice exam (Jason Dion) [DWLD=TRUE]
+    c - CompTIA Network+ (N10-008) Full course & Practice exam (Jason Dion) [DWLD=TRUE]
+    d - CompTIA Security+ (SYO-601) Complete Course and Exam (Jason Dion) (see others by compTIA) [DWLD=TRUE]
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Coursera Courses Tier List https://www.youtube.com/watch?v=kqNpp0rxp8k
+
+---Tier_S---
+Google Data Analytics [DWLD=TRUE]
+
+---Tier_A---
+Google Project Management [DWLD=TRUE]
+Google UX Design [DWLD=TRUE]
+IBM Data Analyst [DWLD=TRUE]
+
+---Tier_B---
+IBM Data Scientist
+Meta Social Media Marketing
+
+---Tier_C---
+Python for Everybody
+
+---Tier_D---
+Google IT automation with python [DWLD=TRUE]
+IBM Cybersecurity Analyst
+
+---Tier_E---
+Google IT Support [DWLD=TRUE]
+
+---Tier_F---
+none
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+CS50 Edx sugested roadmaps (free certificates)
+
+https://www.youtube.com/watch?v=3xaVX0cluDo
+For free certificates. Don't pay for anything: go to cs50.harvard.edu (OpenCourseWare), in this site, there is a tab with cs50 certificate options
+
+--- Start with ---
+CS50P Introduction to programming with Python (because of slow pace)
+CS50X Introduction to computer science
+CS50W Web programming with Python and JavaScript
+--- Let's find a job ---
+
+--- Other suggested courses by David Malan ---
+CS50AI Introduction to Artificial Intelligence with Python
+Princeton Algorithms Part 1 on coursera
+
+--- Other cs50 courses that I might like ---
+-CS50's Introduction to game development
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+École 42
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[MIT xPRO] ARCHITECTURE AND SYSTEMS ENGINEERING: MODELS AND METHODS TO MANAGE COMPLEX SYSTEMS
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+https://www.youtube.com/watch?v=PnK5itOHypY
+
+What Are the TOP Tech Certifications for 2024? And How Much Do They Pay?
+
+
+
+1 - AWS certified solutions architect - professional
+    Pre-requisites:
+        Have 2 years of AWS experience
+        Know 1 script language
+        Have expertise in AWS API and console
+        High familiarity with both linux and windows
+
+    Pro:
+        High salary (170k/year in aug/23)
+
+
+
+2 - Certified Ethical Hacker
+    Pre-requisites:
+        none
+    Pro:
+        High Salary (195k/year in aug/23)
+
+
+
+3 - CISM - Certified Information Security Manager
+    Pre-requisites:
+        none
+
+    Pro:
+        162k/year
+
+    Other similar certifications:
+        Certified Information Systems Security Professional - CISSP
+        Certified in Risk and Information Systems Control - CRISC
+
+
+
+4 - Cisco Certified DevNet Professional
+    Pre-requisites:
+        some...
+
+    Pro:
+        145k/year (DevOps)
+
+
+
+5 - Microsoft Certified: Azure Solutions Architect Expert
+    Pro:
+        152k/year
+
+
+
+6 - Google Certified Professional Cloud Architect Certification
+    Pro:
+        189k/year
+
+
+
+7 - AWS - certified solutions architect - Associate
+    Pre-requisite:
+        Have one year of experience with cloud
+
+    Pro:
+        155k/year
+
+
+
+8 - Project Management Professional
+    Pro:
+        132k/year
+
+
+
+9 - CISSP - Certified Information Systems Security Professional
+    Pre-requisites:
+        Have 5 years of working experience
+
+    Pro:
+        160k/year
+
+
+
+10 - Certified Data Professional
+    Pro:
+        160k/year
+
+
+
+Three trending fields:
+    Cloud
+    Security
+    Data
+
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Linux courses
+
+1. Linux Mastery: Master the Linux Command Line in 11.5 Hours
+2. Getting Started with Linux (Pluralsight best course)
+3. Open Source Software Development, Linux and Git Specialization [Coursera Best Course]
+4. Fundamentals of Red Hat Enterprise Linux (edX Best Course)
+5. Bash for Programmers (Educative Best Course)
+6 Learn Linux in 5 Days and Level Up Your Career (Udemy Course)
+7. Linux Administration Bootcamp: Go from Beginner to Advanced
+8.DevOps Bootcamp: Learn Linux & Become a Linux Sysadmin [ZTM]
+
+
+Learn Linux in 5 Days and Level Up Your Career
+Complete Linux training course to get your dream IT job
+Linux command line basics
+Linux mastery: master the Linux command line in 11.5 hours
+Linux Shell scripting: A project-based approach to learning
+The Linux command line bootcamp: Beginner to power user
+Complete Linux administration course for career success 2024
+Complete Linux troubleshooting course
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Data analist/scientist certifications
+
+# John doe knowledge
+
+
+
+
+
+# Beginners
+
+    Tableau Certified Data Analyst (pre requisite, TABLEAU)
+
+    Cloudera Certified Analyst: Data Analyst Exam (CCA159) (some pre-requisites )
+
+    Microsoft Certified: Power BI Data Analyst Associate (Microsoft PL-300)
+    Microsoft Power Bi Data Analyst Professional Certificate - coursera
+    Microsoft PL-300 Exam Preparation and Practice - coursera (gives 50% voucher)
+
+    CompTIA Data+
+
+
+
+
+
+# Intermediatte
+
+    Microsoft Certified: Azure Data Fundamentals (Microsoft DP-900)
+        It can be followed by:
+            Microsoft Power BI Data Analyst Professional Certificate
+            Exam Prep DP-300: Azure Database Admnistrator Associate 
+            Preparing for DP-900: Microsoft Azure Data Fundamentals Exam
+            Fre youtube videos
+
+
+    AWS Certified Data Analytics - Specialty
+
+    Microsoft Certified: Azure Entreprise Data Analyst Associate (some pre-req)
+
+
